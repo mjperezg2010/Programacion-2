@@ -1,0 +1,10 @@
+Ecolog|56|45|Kocl|
+pirt|45|34|Mlgas|
+Humano|56|56|Tierra|
+Human|56|567|Tierra|
+Alien|56|55|Jupiter|
+Zerpe|78|79|Zerpet|
+Gioyin|45|45|Gyon|
+Tyu|45|65|Osmosiis|
+Marduk|56|5|Markul|
+Esc|45|78|Sodioner|

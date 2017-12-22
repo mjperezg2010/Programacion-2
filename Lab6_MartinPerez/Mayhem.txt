@@ -1,0 +1,10 @@
+Humano|45|34|Tierra|
+Nertu|56|78|Tierra|
+Saturniano|56|45|Saturno|
+Alien|45|56|Tierra|
+Alien|45|12|Jupiter|
+Terrestre|56|456|Tierra|
+Humano|56|67|Tierra|
+Gyojin|34|89|Triton|
+Alien|56|45|Aqua|
+Sodio|45|90|Beeco|
